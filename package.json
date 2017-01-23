@@ -19,6 +19,6 @@
 	},
 	"repository": {
         "type": "git",
-        "url": "https://github.com/timroster/bluemix-scaleSSO-base.git"
+        "url": "https://github.com/timroster/scaleSSO-base.git"
   }
 }
