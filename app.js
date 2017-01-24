@@ -48,7 +48,6 @@ var issuer_id = ssoConfig.credentials.issuerIdentifier;
 // you MUST change the host route to match your application name
 var callback_url = 'https://scaleSSO-TOR.mybluemix.net/auth/sso/callback';
 
-var OpenIDConnectStrategy = require('passport-idaas-openidconnect').IDaaSOIDCStrategy;
 var Strategy = new OpenIDConnectStrategy({
                  authorizationURL : authorization_url,
                  tokenURL : token_url,

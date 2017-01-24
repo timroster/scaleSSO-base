@@ -15,7 +15,7 @@
 		"cf-deployment-tracker-client": "*"
 	},
 	"engines": {
-		"node": "0.12.x"
+		"node": "4.6.x"
 	},
 	"repository": {
         "type": "git",
