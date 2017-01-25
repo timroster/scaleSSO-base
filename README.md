@@ -5,7 +5,7 @@ This source code provides the starting point for learning how to add the Single 
 Follow along in this article: http://www.ibm.com/developerworks/library/wa-scale-sso-for-node-apps-trs-bluemix to see how to take into a working application using the Single Sign On service for Bluemix
 
 To learn more about the service, see the online documentation:
-https://www.ng.bluemix.net/docs/#services/SingleSignOn/index.html#sso_gettingstarted
+https://console.ng.bluemix.net/docs/services/SingleSignOn/index.html#sso_gettingstarted
 
 # Privacy Notice
 
